@@ -1,0 +1,602 @@
+[
+{
+"id": "#ai",
+   "count": 14434, 
+   "category": 0,
+   "tag_associations": [      {"id": "#openai", "count": 383}, {"id": "#artificialintelligence", "count": 231}, {"id": "#chatgpt", "count": 671}, {"id": "#nlp", "count": 64}, {"id": "#gpt", "count": 186}, {"id": "#gpt3", "count": 170}, {"id": "#chatbot", "count": 45}, {"id": "#bing", "count": 41}, {"id": "#bard", "count": 26}, {"id": "#aitools", "count": 24}, {"id": "#tech", "count": 53}, {"id": "#coding", "count": 17}, {"id": "#marketing", "count": 11}, {"id": "#chatgpt4", "count": 95}, {"id": "#llms", "count": 25}, {"id": "#gpt5", "count": 27}, {"id": "#artificalintelligence", "count": 27}, {"id": "#promptengineering", "count": 7}, {"id": "#cybersecurity", "count": 16}, {"id": "#technology", "count": 54}, {"id": "#bingai", "count": 10}, {"id": "#midjourney", "count": 53}, {"id": "#web3", "count": 46}, {"id": "#aiart", "count": 46}, {"id": "#nft", "count": 32}, {"id": "#domains", "count": 30}, {"id": "#startups", "count": 13}, {"id": "#defi", "count": 16}, {"id": "#blockchain", "count": 21}, {"id": "#crypto", "count": 30}, {"id": "#bitcoin", "count": 19}, {"id": "#btc", "count": 7}, {"id": "#bigdata", "count": 7}, {"id": "#nfts", "count": 9}, {"id": "#gptchat", "count": 19}, {"id": "#chatgpt3", "count": 25}, {"id": "#python", "count": 15}, {"id": "#metaverse", "count": 14}, {"id": "#eth", "count": 12}, {"id": "#machinelearning", "count": 63}, {"id": "#programming", "count": 21}, {"id": "#datascience", "count": 11}, {"id": "#airdrop", "count": 10}, {"id": "#llm", "count": 28}, {"id": "#artificial_intelligence", "count": 16}, {"id": "#microsoft", "count": 35}, {"id": "#agi", "count": 19}, {"id": "#generativeai", "count": 56}, {"id": "#midjourneyv5", "count": 23}, {"id": "#google", "count": 29}, {"id": "#elonmusk", "count": 23}, {"id": "#innovation", "count": 16}, {"id": "#digitalart", "count": 16}, {"id": "#art", "count": 21}, {"id": "#stablediffusion", "count": 23}, {"id": "#twitter", "count": 13}, {"id": "#ml", "count": 29}, {"id": "#deeplearning", "count": 27}, {"id": "#data", "count": 9}, {"id": "#code", "count": 8}, {"id": "#reddit", "count": 9}, {"id": "#aiartcommunity", "count": 4}, {"id": "#chatgptplus", "count": 8}, {"id": "#optimus", "count": 1}, {"id": "#future", "count": 11}, {"id": "#meme", "count": 3}, {"id": "#aiartwork", "count": 10}, {"id": "#buildinpublic", "count": 9}, {"id": "#openaichatgpt", "count": 9}, {"id": "#aiartworks", "count": 2}, {"id": "#nftcommunity", "count": 2}, {"id": "#analytics", "count": 1}, {"id": "#stablediffusionai", "count": 1}, {"id": "#emergingtech", "count": 1}]
+},
+{
+"id": "#chatgpt",
+   "count": 11477, 
+   "category": 1,
+   "tag_associations": [      {"id": "#openai", "count": 460}, {"id": "#artificialintelligence", "count": 165}, {"id": "#nlp", "count": 57}, {"id": "#gpt", "count": 187}, {"id": "#gpt3", "count": 182}, {"id": "#chatbot", "count": 37}, {"id": "#bing", "count": 50}, {"id": "#bard", "count": 40}, {"id": "#aitools", "count": 34}, {"id": "#chatgpt4", "count": 102}, {"id": "#llms", "count": 25}, {"id": "#cybersecurity", "count": 18}, {"id": "#technology", "count": 43}, {"id": "#midjourney", "count": 31}, {"id": "#web3", "count": 51}, {"id": "#aiart", "count": 20}, {"id": "#nft", "count": 23}, {"id": "#tech", "count": 34}, {"id": "#gpt5", "count": 16}, {"id": "#gptchat", "count": 25}, {"id": "#chatgpt3", "count": 42}, {"id": "#crypto", "count": 40}, {"id": "#blockchain", "count": 15}, {"id": "#innovation", "count": 9}, {"id": "#buildinpublic", "count": 19}, {"id": "#python", "count": 13}, {"id": "#metaverse", "count": 22}, {"id": "#bitcoin", "count": 17}, {"id": "#eth", "count": 24}, {"id": "#defi", "count": 7}, {"id": "#marketing", "count": 12}, {"id": "#airdrop", "count": 8}, {"id": "#microsoft", "count": 48}, {"id": "#elonmusk", "count": 21}, {"id": "#agi", "count": 24}, {"id": "#generativeai", "count": 58}, {"id": "#llm", "count": 27}, {"id": "#artificalintelligence", "count": 14}, {"id": "#programming", "count": 15}, {"id": "#domains", "count": 20}, {"id": "#google", "count": 24}, {"id": "#machinelearning", "count": 40}, {"id": "#promptengineering", "count": 8}, {"id": "#future", "count": 11}, {"id": "#digitalart", "count": 10}, {"id": "#bingai", "count": 7}, {"id": "#twitter", "count": 8}, {"id": "#deeplearning", "count": 27}, {"id": "#chatgptplus", "count": 29}, {"id": "#art", "count": 9}, {"id": "#code", "count": 4}, {"id": "#coding", "count": 13}, {"id": "#artificial_intelligence", "count": 9}, {"id": "#reddit", "count": 9}, {"id": "#btc", "count": 24}, {"id": "#data", "count": 4}, {"id": "#openaichatgpt", "count": 14}, {"id": "#ml", "count": 11}, {"id": "#meme", "count": 1}, {"id": "#datascience", "count": 4}, {"id": "#aiartcommunity", "count": 2}, {"id": "#stablediffusion", "count": 8}, {"id": "#aiartwork", "count": 2}, {"id": "#bigdata", "count": 3}, {"id": "#startups", "count": 3}, {"id": "#analytics", "count": 3}, {"id": "#nfts", "count": 2}, {"id": "#midjourneyv5", "count": 1}, {"id": "#optimus", "count": 1}, {"id": "#doge", "count": 1}, {"id": "#emergingtech", "count": 1}]
+},
+{
+"id": "#openai",
+   "count": 10136, 
+   "category": 1,
+   "tag_associations": [      {"id": "#artificialintelligence", "count": 156}, {"id": "#nlp", "count": 70}, {"id": "#gpt", "count": 209}, {"id": "#gpt3", "count": 170}, {"id": "#aitools", "count": 19}, {"id": "#openaichatgpt", "count": 736}, {"id": "#stablediffusion", "count": 66}, {"id": "#midjourney", "count": 94}, {"id": "#aiartcommunity", "count": 3}, {"id": "#elonmusk", "count": 27}, {"id": "#doge", "count": 612}, {"id": "#crypto", "count": 1746}, {"id": "#chatbot", "count": 32}, {"id": "#tech", "count": 31}, {"id": "#coding", "count": 19}, {"id": "#marketing", "count": 12}, {"id": "#bard", "count": 24}, {"id": "#llms", "count": 18}, {"id": "#chatgpt4", "count": 210}, {"id": "#aiart", "count": 74}, {"id": "#nfts", "count": 1}, {"id": "#digitalart", "count": 8}, {"id": "#gptchat", "count": 15}, {"id": "#chatgpt3", "count": 14}, {"id": "#buildinpublic", "count": 20}, {"id": "#machinelearning", "count": 43}, {"id": "#technology", "count": 30}, {"id": "#programming", "count": 18}, {"id": "#datascience", "count": 6}, {"id": "#python", "count": 11}, {"id": "#innovation", "count": 12}, {"id": "#aiartworks", "count": 5}, {"id": "#bigdata", "count": 4}, {"id": "#analytics", "count": 4}, {"id": "#generativeai", "count": 23}, {"id": "#llm", "count": 27}, {"id": "#artificalintelligence", "count": 19}, {"id": "#domains", "count": 9}, {"id": "#bing", "count": 29}, {"id": "#google", "count": 44}, {"id": "#microsoft", "count": 75}, {"id": "#promptengineering", "count": 6}, {"id": "#bingai", "count": 17}, {"id": "#airdrop", "count": 1391}, {"id": "#nft", "count": 1405}, {"id": "#deeplearning", "count": 20}, {"id": "#agi", "count": 14}, {"id": "#artificial_intelligence", "count": 16}, {"id": "#art", "count": 8}, {"id": "#code", "count": 5}, {"id": "#data", "count": 6}, {"id": "#cybersecurity", "count": 7}, {"id": "#optimus", "count": 928}, {"id": "#gpt5", "count": 21}, {"id": "#midjourneyv5", "count": 19}, {"id": "#ml", "count": 14}, {"id": "#zksync", "count": 1074}, {"id": "#bull", "count": 475}, {"id": "#memecoin", "count": 544}, {"id": "#meme", "count": 615}, {"id": "#hodl", "count": 871}, {"id": "#web3", "count": 843}, {"id": "#ath", "count": 202}, {"id": "#future", "count": 11}, {"id": "#btc", "count": 24}, {"id": "#chatgptplus", "count": 16}, {"id": "#sksync", "count": 390}, {"id": "#metaverse", "count": 9}, {"id": "#bitcoin", "count": 3}, {"id": "#blockchain", "count": 3}, {"id": "#eth", "count": 26}, {"id": "#defi", "count": 4}, {"id": "#aiartwork", "count": 3}, {"id": "#startups", "count": 1}, {"id": "#twitter", "count": 5}, {"id": "#emergingtech", "count": 1}]
+},
+{
+"id": "#crypto",
+   "count": 5005, 
+   "category": 2,
+   "tag_associations": [      {"id": "#domains", "count": 16}, {"id": "#startups", "count": 7}, {"id": "#defi", "count": 18}, {"id": "#technology", "count": 6}, {"id": "#blockchain", "count": 28}, {"id": "#bitcoin", "count": 33}, {"id": "#btc", "count": 66}, {"id": "#bigdata", "count": 6}, {"id": "#tech", "count": 6}, {"id": "#nft", "count": 918}, {"id": "#nfts", "count": 13}, {"id": "#web3", "count": 534}, {"id": "#artificialintelligence", "count": 1}, {"id": "#gpt3", "count": 17}, {"id": "#chatgpt3", "count": 2}, {"id": "#chatgpt4", "count": 6}, {"id": "#metaverse", "count": 17}, {"id": "#eth", "count": 29}, {"id": "#nftcommunity", "count": 4}, {"id": "#gpt", "count": 145}, {"id": "#gptchat", "count": 7}, {"id": "#google", "count": 2}, {"id": "#digitalart", "count": 2}, {"id": "#airdrop", "count": 887}, {"id": "#art", "count": 2}, {"id": "#optimus", "count": 520}, {"id": "#bull", "count": 362}, {"id": "#memecoin", "count": 263}, {"id": "#zksync", "count": 593}, {"id": "#doge", "count": 327}, {"id": "#meme", "count": 382}, {"id": "#hodl", "count": 581}, {"id": "#ath", "count": 74}, {"id": "#llm", "count": 1}, {"id": "#midjourney", "count": 2}, {"id": "#stablediffusion", "count": 3}, {"id": "#bing", "count": 3}, {"id": "#microsoft", "count": 7}, {"id": "#aitools", "count": 1}, {"id": "#sksync", "count": 224}, {"id": "#openaichatgpt", "count": 384}, {"id": "#usdc", "count": 22}, {"id": "#damus", "count": 29}, {"id": "#nostr", "count": 20}, {"id": "#twitter", "count": 31}, {"id": "#usdt", "count": 30}, {"id": "#circle", "count": 16}, {"id": "#chatbot", "count": 1}, {"id": "#aiartwork", "count": 1}, {"id": "#aiart", "count": 2}, {"id": "#beauty", "count": 1}, {"id": "#cybersecurity", "count": 2}, {"id": "#machinelearning", "count": 1}, {"id": "#chatgptplus", "count": 1}, {"id": "#artificalintelligence", "count": 1}, {"id": "#haaland", "count": 1}, {"id": "#gilmore", "count": 1}, {"id": "#waller", "count": 1}]
+},
+{
+"id": "#nft",
+   "count": 3895, 
+   "category": 2,
+   "tag_associations": [      {"id": "#midjourney", "count": 8}, {"id": "#web3", "count": 33}, {"id": "#aiart", "count": 5}, {"id": "#domains", "count": 16}, {"id": "#startups", "count": 7}, {"id": "#defi", "count": 19}, {"id": "#technology", "count": 7}, {"id": "#blockchain", "count": 27}, {"id": "#bitcoin", "count": 19}, {"id": "#btc", "count": 12}, {"id": "#bigdata", "count": 6}, {"id": "#tech", "count": 6}, {"id": "#nfts", "count": 12}, {"id": "#metaverse", "count": 18}, {"id": "#eth", "count": 9}, {"id": "#nftcommunity", "count": 1}, {"id": "#art", "count": 6}, {"id": "#chatgpt4", "count": 4}, {"id": "#digitalart", "count": 10}, {"id": "#chatgpt3", "count": 2}, {"id": "#artificialintelligence", "count": 4}, {"id": "#airdrop", "count": 4}, {"id": "#chatbot", "count": 6}, {"id": "#gpt", "count": 6}, {"id": "#gpt3", "count": 11}, {"id": "#gptchat", "count": 7}, {"id": "#gpt5", "count": 2}, {"id": "#google", "count": 4}, {"id": "#bing", "count": 4}, {"id": "#microsoft", "count": 3}, {"id": "#aitools", "count": 1}, {"id": "#doge", "count": 1}, {"id": "#midjourneyv5", "count": 1}, {"id": "#marketing", "count": 1}, {"id": "#usdc", "count": 1}, {"id": "#hodl", "count": 1}]
+},
+{
+"id": "#hodl",
+   "count": 3682, 
+   "category": 2,
+   "tag_associations": [      {"id": "#web3", "count": 1621}, {"id": "#zksync", "count": 783}, {"id": "#doge", "count": 374}, {"id": "#memecoin", "count": 448}, {"id": "#bull", "count": 370}, {"id": "#optimus", "count": 355}, {"id": "#meme", "count": 371}, {"id": "#gpt", "count": 222}, {"id": "#airdrop", "count": 222}, {"id": "#usdc", "count": 40}, {"id": "#damus", "count": 51}, {"id": "#nostr", "count": 33}, {"id": "#ath", "count": 103}, {"id": "#usdt", "count": 58}, {"id": "#twitter", "count": 49}, {"id": "#openaichatgpt", "count": 37}, {"id": "#btc", "count": 31}, {"id": "#circle", "count": 35}]
+},
+{
+"id": "#airdrop",
+   "count": 3558, 
+   "category": 2,
+   "tag_associations": [      {"id": "#google", "count": 2}, {"id": "#digitalart", "count": 2}, {"id": "#defi", "count": 2}, {"id": "#blockchain", "count": 2}, {"id": "#web3", "count": 301}, {"id": "#metaverse", "count": 2}, {"id": "#gpt", "count": 809}, {"id": "#nfts", "count": 2}, {"id": "#art", "count": 2}, {"id": "#openaichatgpt", "count": 1473}, {"id": "#sksync", "count": 781}, {"id": "#optimus", "count": 747}, {"id": "#damus", "count": 197}, {"id": "#circle", "count": 197}, {"id": "#usdc", "count": 166}, {"id": "#usdt", "count": 201}, {"id": "#twitter", "count": 199}, {"id": "#nostr", "count": 166}, {"id": "#btc", "count": 163}, {"id": "#ath", "count": 103}]
+},
+{
+"id": "#zksync",
+   "count": 2607, 
+   "category": 2,
+   "tag_associations": [      {"id": "#optimus", "count": 522}, {"id": "#web3", "count": 677}, {"id": "#doge", "count": 549}, {"id": "#meme", "count": 577}, {"id": "#memecoin", "count": 556}, {"id": "#ath", "count": 147}, {"id": "#bull", "count": 543}]
+},
+{
+"id": "#web3",
+   "count": 2177, 
+   "category": 2,
+   "tag_associations": [      {"id": "#tech", "count": 8}, {"id": "#innovation", "count": 9}, {"id": "#technology", "count": 8}, {"id": "#metaverse", "count": 33}, {"id": "#blockchain", "count": 26}, {"id": "#marketing", "count": 8}, {"id": "#analytics", "count": 7}, {"id": "#bigdata", "count": 7}, {"id": "#machinelearning", "count": 6}, {"id": "#gpt3", "count": 43}, {"id": "#bard", "count": 4}, {"id": "#midjourney", "count": 3}, {"id": "#aiart", "count": 3}, {"id": "#ml", "count": 2}, {"id": "#chatbot", "count": 10}, {"id": "#data", "count": 1}, {"id": "#bitcoin", "count": 13}, {"id": "#eth", "count": 10}, {"id": "#defi", "count": 8}, {"id": "#chatgpt4", "count": 11}, {"id": "#digitalart", "count": 4}, {"id": "#gpt", "count": 26}, {"id": "#gptchat", "count": 11}, {"id": "#bing", "count": 11}, {"id": "#artificialintelligence", "count": 9}, {"id": "#reddit", "count": 7}, {"id": "#chatgptplus", "count": 18}, {"id": "#google", "count": 2}, {"id": "#nfts", "count": 4}, {"id": "#art", "count": 6}, {"id": "#doge", "count": 375}, {"id": "#memecoin", "count": 448}, {"id": "#bull", "count": 370}, {"id": "#optimus", "count": 418}, {"id": "#meme", "count": 371}, {"id": "#btc", "count": 4}, {"id": "#domains", "count": 8}, {"id": "#microsoft", "count": 7}, {"id": "#generativeai", "count": 4}, {"id": "#python", "count": 1}, {"id": "#nftcommunity", "count": 1}, {"id": "#sksync", "count": 94}, {"id": "#openaichatgpt", "count": 159}, {"id": "#nlp", "count": 4}, {"id": "#coding", "count": 1}, {"id": "#programming", "count": 2}, {"id": "#stablediffusion", "count": 3}, {"id": "#artificial_intelligence", "count": 1}, {"id": "#future", "count": 2}, {"id": "#gpt5", "count": 1}, {"id": "#llm", "count": 1}, {"id": "#emergingtech", "count": 1}, {"id": "#elonmusk", "count": 1}]
+},
+{
+"id": "#optimus",
+   "count": 2082, 
+   "category": 2,
+   "tag_associations": [      {"id": "#gpt", "count": 1}, {"id": "#eth", "count": 1}, {"id": "#btc", "count": 1}]
+},
+{
+"id": "#gpt",
+   "count": 1939, 
+   "category": 1,
+   "tag_associations": [      {"id": "#nlp", "count": 49}, {"id": "#gpt3", "count": 108}, {"id": "#chatbot", "count": 22}, {"id": "#aitools", "count": 7}, {"id": "#tech", "count": 13}, {"id": "#coding", "count": 11}, {"id": "#marketing", "count": 2}, {"id": "#gpt5", "count": 6}, {"id": "#artificalintelligence", "count": 1}, {"id": "#cybersecurity", "count": 5}, {"id": "#technology", "count": 2}, {"id": "#chatgpt4", "count": 33}, {"id": "#artificialintelligence", "count": 54}, {"id": "#gptchat", "count": 17}, {"id": "#ml", "count": 13}, {"id": "#innovation", "count": 4}, {"id": "#domains", "count": 25}, {"id": "#startups", "count": 6}, {"id": "#bard", "count": 14}, {"id": "#art", "count": 8}, {"id": "#nfts", "count": 3}, {"id": "#eth", "count": 17}, {"id": "#btc", "count": 20}, {"id": "#blockchain", "count": 6}, {"id": "#promptengineering", "count": 4}, {"id": "#buildinpublic", "count": 5}, {"id": "#machinelearning", "count": 13}, {"id": "#generativeai", "count": 15}, {"id": "#programming", "count": 8}, {"id": "#datascience", "count": 6}, {"id": "#deeplearning", "count": 8}, {"id": "#google", "count": 11}, {"id": "#chatgpt3", "count": 7}, {"id": "#bing", "count": 12}, {"id": "#reddit", "count": 7}, {"id": "#chatgptplus", "count": 8}, {"id": "#llm", "count": 5}, {"id": "#openaichatgpt", "count": 5}, {"id": "#microsoft", "count": 13}, {"id": "#midjourney", "count": 1}, {"id": "#digitalart", "count": 3}, {"id": "#defi", "count": 3}, {"id": "#metaverse", "count": 12}, {"id": "#artificial_intelligence", "count": 4}, {"id": "#future", "count": 2}, {"id": "#nftcommunity", "count": 2}, {"id": "#bitcoin", "count": 2}, {"id": "#agi", "count": 1}, {"id": "#python", "count": 2}, {"id": "#aiart", "count": 2}, {"id": "#twitter", "count": 2}, {"id": "#stablediffusion", "count": 3}, {"id": "#elonmusk", "count": 2}, {"id": "#bingai", "count": 2}, {"id": "#aiartworks", "count": 1}, {"id": "#emergingtech", "count": 1}]
+},
+{
+"id": "#ath",
+   "count": 1937, 
+   "category": 2,
+   "tag_associations": [   ]
+},
+{
+"id": "#artificialintelligence",
+   "count": 1699, 
+   "category": 0,
+   "tag_associations": [      {"id": "#art", "count": 76}, {"id": "#aiartwork", "count": 2}, {"id": "#chatgpt4", "count": 49}, {"id": "#gpt3", "count": 36}, {"id": "#gptchat", "count": 14}, {"id": "#tech", "count": 13}, {"id": "#chatgpt3", "count": 13}, {"id": "#aitools", "count": 9}, {"id": "#machinelearning", "count": 100}, {"id": "#technology", "count": 19}, {"id": "#programming", "count": 8}, {"id": "#datascience", "count": 54}, {"id": "#innovation", "count": 12}, {"id": "#aiart", "count": 71}, {"id": "#midjourneyv5", "count": 45}, {"id": "#data", "count": 48}, {"id": "#code", "count": 47}, {"id": "#python", "count": 45}, {"id": "#analytics", "count": 39}, {"id": "#bigdata", "count": 22}, {"id": "#digitalart", "count": 42}, {"id": "#generativeai", "count": 50}, {"id": "#bingai", "count": 7}, {"id": "#midjourney", "count": 8}, {"id": "#ml", "count": 9}, {"id": "#deeplearning", "count": 25}, {"id": "#coding", "count": 7}, {"id": "#llm", "count": 5}, {"id": "#llms", "count": 10}, {"id": "#chatbot", "count": 16}, {"id": "#bing", "count": 23}, {"id": "#reddit", "count": 7}, {"id": "#chatgptplus", "count": 5}, {"id": "#bard", "count": 5}, {"id": "#elonmusk", "count": 20}, {"id": "#gpt5", "count": 2}, {"id": "#domains", "count": 3}, {"id": "#microsoft", "count": 17}, {"id": "#cybersecurity", "count": 1}, {"id": "#agi", "count": 4}, {"id": "#stablediffusion", "count": 2}, {"id": "#nlp", "count": 4}, {"id": "#blockchain", "count": 1}, {"id": "#marketing", "count": 4}, {"id": "#openaichatgpt", "count": 5}, {"id": "#startups", "count": 1}, {"id": "#google", "count": 5}, {"id": "#stablediffusionai", "count": 1}, {"id": "#artificalintelligence", "count": 2}, {"id": "#future", "count": 1}, {"id": "#emergingtech", "count": 1}]
+},
+{
+"id": "#openaichatgpt",
+   "count": 1672, 
+   "category": 1,
+   "tag_associations": [      {"id": "#tech", "count": 2}, {"id": "#chatgpt4", "count": 5}, {"id": "#aitools", "count": 2}, {"id": "#marketing", "count": 1}, {"id": "#technology", "count": 1}, {"id": "#gpt3", "count": 3}, {"id": "#llm", "count": 1}, {"id": "#chatgpt3", "count": 1}, {"id": "#generativeai", "count": 1}, {"id": "#deeplearning", "count": 1}]
+},
+{
+"id": "#doge",
+   "count": 1430, 
+   "category": 2,
+   "tag_associations": [      {"id": "#domains", "count": 1}, {"id": "#metaverse", "count": 1}, {"id": "#bitcoin", "count": 1}, {"id": "#nfts", "count": 1}, {"id": "#btc", "count": 1}, {"id": "#blockchain", "count": 1}, {"id": "#gpt3", "count": 1}, {"id": "#midjourney", "count": 2}, {"id": "#stablediffusion", "count": 2}, {"id": "#chatgpt4", "count": 2}, {"id": "#aiart", "count": 2}, {"id": "#eth", "count": 4}]
+},
+{
+"id": "#memecoin",
+   "count": 1408, 
+   "category": 2,
+   "tag_associations": [      {"id": "#bull", "count": 313}, {"id": "#meme", "count": 311}, {"id": "#chatgpt4", "count": 1}]
+},
+{
+"id": "#meme",
+   "count": 1390, 
+   "category": 2,
+   "tag_associations": [      {"id": "#nlp", "count": 2}, {"id": "#bull", "count": 300}, {"id": "#google", "count": 1}]
+},
+{
+"id": "#bull",
+   "count": 1261, 
+   "category": 2,
+   "tag_associations": [   ]
+},
+{
+"id": "#gpt3",
+   "count": 937, 
+   "category": 1,
+   "tag_associations": [      {"id": "#nlp", "count": 50}, {"id": "#art", "count": 8}, {"id": "#stablediffusion", "count": 6}, {"id": "#chatgpt4", "count": 46}, {"id": "#gptchat", "count": 26}, {"id": "#chatgpt3", "count": 14}, {"id": "#artificial_intelligence", "count": 12}, {"id": "#bitcoin", "count": 12}, {"id": "#gpt5", "count": 16}, {"id": "#llm", "count": 16}, {"id": "#llms", "count": 7}, {"id": "#buildinpublic", "count": 9}, {"id": "#chatbot", "count": 23}, {"id": "#domains", "count": 15}, {"id": "#google", "count": 7}, {"id": "#blockchain", "count": 9}, {"id": "#bard", "count": 7}, {"id": "#artificalintelligence", "count": 5}, {"id": "#machinelearning", "count": 13}, {"id": "#ml", "count": 11}, {"id": "#generativeai", "count": 21}, {"id": "#programming", "count": 9}, {"id": "#datascience", "count": 6}, {"id": "#deeplearning", "count": 10}, {"id": "#coding", "count": 12}, {"id": "#elonmusk", "count": 4}, {"id": "#twitter", "count": 5}, {"id": "#nfts", "count": 4}, {"id": "#code", "count": 3}, {"id": "#bing", "count": 11}, {"id": "#reddit", "count": 7}, {"id": "#chatgptplus", "count": 18}, {"id": "#midjourney", "count": 3}, {"id": "#digitalart", "count": 1}, {"id": "#aiart", "count": 2}, {"id": "#metaverse", "count": 22}, {"id": "#nftcommunity", "count": 2}, {"id": "#future", "count": 5}, {"id": "#bingai", "count": 1}, {"id": "#btc", "count": 5}, {"id": "#microsoft", "count": 14}, {"id": "#midjourneyv5", "count": 1}, {"id": "#cybersecurity", "count": 2}, {"id": "#stablediffusionai", "count": 1}, {"id": "#agi", "count": 2}, {"id": "#python", "count": 1}, {"id": "#aitools", "count": 1}, {"id": "#tech", "count": 5}, {"id": "#data", "count": 4}, {"id": "#startups", "count": 1}, {"id": "#technology", "count": 2}, {"id": "#marketing", "count": 2}, {"id": "#eth", "count": 1}, {"id": "#promptengineering", "count": 1}, {"id": "#emergingtech", "count": 1}]
+},
+{
+"id": "#machinelearning",
+   "count": 860, 
+   "category": 0,
+   "tag_associations": [      {"id": "#chatgpt3", "count": 5}, {"id": "#aitools", "count": 2}, {"id": "#technology", "count": 6}, {"id": "#programming", "count": 10}, {"id": "#datascience", "count": 55}, {"id": "#python", "count": 51}, {"id": "#art", "count": 67}, {"id": "#aiart", "count": 65}, {"id": "#midjourneyv5", "count": 45}, {"id": "#data", "count": 48}, {"id": "#code", "count": 46}, {"id": "#analytics", "count": 39}, {"id": "#innovation", "count": 5}, {"id": "#bigdata", "count": 23}, {"id": "#digitalart", "count": 40}, {"id": "#generativeai", "count": 45}, {"id": "#cybersecurity", "count": 5}, {"id": "#chatbot", "count": 5}, {"id": "#ml", "count": 12}, {"id": "#deeplearning", "count": 29}, {"id": "#coding", "count": 7}, {"id": "#nlp", "count": 10}, {"id": "#bard", "count": 5}, {"id": "#google", "count": 8}, {"id": "#microsoft", "count": 10}, {"id": "#future", "count": 2}, {"id": "#llms", "count": 5}, {"id": "#bing", "count": 7}, {"id": "#aiartwork", "count": 3}, {"id": "#tech", "count": 5}, {"id": "#chatgpt4", "count": 7}, {"id": "#elonmusk", "count": 2}, {"id": "#gpt5", "count": 1}, {"id": "#artificial_intelligence", "count": 1}]
+},
+{
+"id": "#chatgpt4",
+   "count": 831, 
+   "category": 1,
+   "tag_associations": [      {"id": "#aitools", "count": 9}, {"id": "#midjourney", "count": 66}, {"id": "#stablediffusion", "count": 51}, {"id": "#aiart", "count": 60}, {"id": "#nfts", "count": 1}, {"id": "#digitalart", "count": 8}, {"id": "#programming", "count": 8}, {"id": "#bingai", "count": 31}, {"id": "#python", "count": 26}, {"id": "#tech", "count": 35}, {"id": "#ml", "count": 28}, {"id": "#chatgpt3", "count": 68}, {"id": "#code", "count": 24}, {"id": "#chatbot", "count": 48}, {"id": "#gpt5", "count": 24}, {"id": "#coding", "count": 9}, {"id": "#gptchat", "count": 34}, {"id": "#artificalintelligence", "count": 21}, {"id": "#deeplearning", "count": 1}, {"id": "#analytics", "count": 1}, {"id": "#artificial_intelligence", "count": 13}, {"id": "#domains", "count": 15}, {"id": "#metaverse", "count": 8}, {"id": "#datascience", "count": 8}, {"id": "#generativeai", "count": 16}, {"id": "#bing", "count": 19}, {"id": "#google", "count": 20}, {"id": "#bard", "count": 12}, {"id": "#microsoft", "count": 21}, {"id": "#technology", "count": 19}, {"id": "#elonmusk", "count": 13}, {"id": "#llm", "count": 4}, {"id": "#reddit", "count": 7}, {"id": "#chatgptplus", "count": 21}, {"id": "#aiartworks", "count": 3}, {"id": "#aiartcommunity", "count": 2}, {"id": "#aiartwork", "count": 9}, {"id": "#agi", "count": 3}, {"id": "#llms", "count": 5}, {"id": "#midjourneyv5", "count": 6}, {"id": "#future", "count": 19}, {"id": "#poem", "count": 1}, {"id": "#promptengineering", "count": 2}, {"id": "#innovation", "count": 5}, {"id": "#cybersecurity", "count": 2}, {"id": "#btc", "count": 16}, {"id": "#eth", "count": 7}, {"id": "#blockchain", "count": 2}, {"id": "#defi", "count": 5}, {"id": "#art", "count": 4}, {"id": "#buildinpublic", "count": 3}, {"id": "#bitcoin", "count": 1}, {"id": "#twitter", "count": 3}, {"id": "#nlp", "count": 3}, {"id": "#startups", "count": 1}, {"id": "#marketing", "count": 1}]
+},
+{
+"id": "#sksync",
+   "count": 781, 
+   "category": 2,
+   "tag_associations": [   ]
+},
+{
+"id": "#aiart",
+   "count": 724, 
+   "category": 3,
+   "tag_associations": [      {"id": "#midjourney", "count": 81}, {"id": "#stablediffusion", "count": 65}, {"id": "#nfts", "count": 2}, {"id": "#digitalart", "count": 16}, {"id": "#elonmusk", "count": 1}, {"id": "#aiartwork", "count": 5}, {"id": "#gpt5", "count": 5}, {"id": "#aitools", "count": 4}, {"id": "#midjourneyv5", "count": 16}, {"id": "#art", "count": 4}, {"id": "#artificalintelligence", "count": 2}, {"id": "#agi", "count": 4}, {"id": "#aiartcommunity", "count": 6}, {"id": "#generativeai", "count": 3}, {"id": "#chatbot", "count": 2}, {"id": "#technology", "count": 1}, {"id": "#ml", "count": 1}, {"id": "#deeplearning", "count": 1}, {"id": "#nlp", "count": 1}, {"id": "#bigdata", "count": 1}, {"id": "#eth", "count": 5}, {"id": "#metaverse", "count": 3}, {"id": "#defi", "count": 4}, {"id": "#btc", "count": 2}]
+},
+{
+"id": "#generativeai",
+   "count": 586, 
+   "category": 3,
+   "tag_associations": [      {"id": "#art", "count": 29}, {"id": "#bigdata", "count": 18}, {"id": "#digitalart", "count": 26}, {"id": "#midjourneyv5", "count": 9}, {"id": "#datascience", "count": 14}, {"id": "#data", "count": 9}, {"id": "#code", "count": 9}, {"id": "#python", "count": 8}, {"id": "#analytics", "count": 8}, {"id": "#ml", "count": 8}, {"id": "#programming", "count": 6}, {"id": "#deeplearning", "count": 20}, {"id": "#coding", "count": 6}, {"id": "#bard", "count": 1}, {"id": "#google", "count": 1}, {"id": "#llms", "count": 9}, {"id": "#bing", "count": 9}, {"id": "#chatgpt3", "count": 11}, {"id": "#aiartwork", "count": 3}, {"id": "#microsoft", "count": 4}, {"id": "#metaverse", "count": 2}, {"id": "#stablediffusion", "count": 2}, {"id": "#nlp", "count": 4}, {"id": "#llm", "count": 4}, {"id": "#innovation", "count": 2}, {"id": "#agi", "count": 1}]
+},
+{
+"id": "#technology",
+   "count": 472, 
+   "category": 4,
+   "tag_associations": [      {"id": "#tech", "count": 48}, {"id": "#innovation", "count": 31}, {"id": "#metaverse", "count": 6}, {"id": "#blockchain", "count": 45}, {"id": "#marketing", "count": 10}, {"id": "#analytics", "count": 8}, {"id": "#bigdata", "count": 15}, {"id": "#bard", "count": 6}, {"id": "#cybersecurity", "count": 13}, {"id": "#domains", "count": 8}, {"id": "#startups", "count": 9}, {"id": "#defi", "count": 6}, {"id": "#bitcoin", "count": 6}, {"id": "#btc", "count": 8}, {"id": "#nfts", "count": 6}, {"id": "#ml", "count": 5}, {"id": "#emergingtech", "count": 27}, {"id": "#coruzant", "count": 27}, {"id": "#chatbot", "count": 11}, {"id": "#data", "count": 3}, {"id": "#microsoft", "count": 18}, {"id": "#google", "count": 9}, {"id": "#gpt5", "count": 10}, {"id": "#chatgpt3", "count": 2}, {"id": "#aitools", "count": 2}, {"id": "#programming", "count": 5}, {"id": "#datascience", "count": 4}, {"id": "#artificial_intelligence", "count": 16}, {"id": "#elonmusk", "count": 6}, {"id": "#aiartworks", "count": 3}, {"id": "#midjourneyv5", "count": 2}, {"id": "#future", "count": 15}, {"id": "#twitter", "count": 4}, {"id": "#nlp", "count": 5}, {"id": "#artificalintelligence", "count": 7}, {"id": "#bingai", "count": 1}, {"id": "#python", "count": 3}, {"id": "#bing", "count": 6}, {"id": "#digitalart", "count": 1}, {"id": "#midjourney", "count": 3}, {"id": "#llms", "count": 1}, {"id": "#gptchat", "count": 5}, {"id": "#aiartwork", "count": 1}, {"id": "#stablediffusion", "count": 1}, {"id": "#stablediffusionai", "count": 1}, {"id": "#deeplearning", "count": 3}, {"id": "#coding", "count": 1}, {"id": "#art", "count": 1}, {"id": "#code", "count": 1}]
+},
+{
+"id": "#microsoft",
+   "count": 440, 
+   "category": 4,
+   "tag_associations": [      {"id": "#google", "count": 24}, {"id": "#agi", "count": 2}, {"id": "#bing", "count": 12}, {"id": "#deeplearning", "count": 7}, {"id": "#nlp", "count": 10}, {"id": "#bard", "count": 7}, {"id": "#domains", "count": 4}, {"id": "#chatbot", "count": 5}, {"id": "#llm", "count": 2}, {"id": "#cybersecurity", "count": 1}, {"id": "#metaverse", "count": 4}, {"id": "#art", "count": 4}, {"id": "#coding", "count": 2}, {"id": "#programming", "count": 1}, {"id": "#llms", "count": 3}, {"id": "#chatgpt3", "count": 3}, {"id": "#stablediffusion", "count": 3}, {"id": "#midjourney", "count": 1}, {"id": "#twitter", "count": 1}, {"id": "#tech", "count": 1}, {"id": "#code", "count": 1}, {"id": "#artificalintelligence", "count": 1}, {"id": "#bingai", "count": 1}, {"id": "#chatgptplus", "count": 1}]
+},
+{
+"id": "#aiartwork",
+   "count": 439, 
+   "category": 3,
+   "tag_associations": [      {"id": "#deeplearning", "count": 3}, {"id": "#aiartcommunity", "count": 3}, {"id": "#digitalart", "count": 2}, {"id": "#midjourney", "count": 2}]
+},
+{
+"id": "#digitalart",
+   "count": 423, 
+   "category": 3,
+   "tag_associations": [      {"id": "#aiartworks", "count": 334}, {"id": "#aipoem", "count": 334}, {"id": "#poem", "count": 334}, {"id": "#poemaday", "count": 334}, {"id": "#beauty", "count": 334}, {"id": "#female", "count": 334}, {"id": "#aiartcommunity", "count": 263}, {"id": "#stablediffusionai", "count": 127}, {"id": "#midjourney", "count": 21}, {"id": "#stablediffusion", "count": 45}, {"id": "#nfts", "count": 3}, {"id": "#midjourneyv5", "count": 6}, {"id": "#art", "count": 10}, {"id": "#gpt5", "count": 3}, {"id": "#chatgpt3", "count": 2}, {"id": "#chatbot", "count": 6}, {"id": "#google", "count": 3}, {"id": "#defi", "count": 2}, {"id": "#blockchain", "count": 2}, {"id": "#metaverse", "count": 4}, {"id": "#elonmusk", "count": 1}, {"id": "#data", "count": 1}]
+},
+{
+"id": "#midjourney",
+   "count": 393, 
+   "category": 3,
+   "tag_associations": [      {"id": "#midjourneyv5", "count": 38}, {"id": "#promptengineering", "count": 1}, {"id": "#aitools", "count": 3}, {"id": "#stablediffusion", "count": 70}, {"id": "#aiartcommunity", "count": 11}, {"id": "#elonmusk", "count": 3}, {"id": "#nfts", "count": 2}, {"id": "#artificalintelligence", "count": 3}, {"id": "#aiartworks", "count": 4}, {"id": "#bingai", "count": 4}, {"id": "#gpt5", "count": 2}, {"id": "#chatbot", "count": 5}, {"id": "#tech", "count": 1}, {"id": "#innovation", "count": 1}, {"id": "#art", "count": 9}, {"id": "#ml", "count": 1}, {"id": "#deeplearning", "count": 1}, {"id": "#nlp", "count": 1}, {"id": "#bigdata", "count": 1}, {"id": "#agi", "count": 1}, {"id": "#bard", "count": 2}, {"id": "#llms", "count": 2}, {"id": "#google", "count": 2}, {"id": "#eth", "count": 6}, {"id": "#chatgptplus", "count": 1}, {"id": "#defi", "count": 5}, {"id": "#metaverse", "count": 1}, {"id": "#programming", "count": 1}, {"id": "#gptchat", "count": 1}, {"id": "#btc", "count": 1}, {"id": "#nftcommunity", "count": 1}, {"id": "#chatgpt3", "count": 1}]
+},
+{
+"id": "#aiartworks",
+   "count": 367, 
+   "category": 3,
+   "tag_associations": [   ]
+},
+{
+"id": "#btc",
+   "count": 360, 
+   "category": 2,
+   "tag_associations": [      {"id": "#domains", "count": 10}, {"id": "#startups", "count": 6}, {"id": "#defi", "count": 6}, {"id": "#blockchain", "count": 10}, {"id": "#bitcoin", "count": 14}, {"id": "#bigdata", "count": 6}, {"id": "#tech", "count": 6}, {"id": "#nfts", "count": 7}, {"id": "#bard", "count": 2}, {"id": "#metaverse", "count": 5}, {"id": "#bing", "count": 3}, {"id": "#gptchat", "count": 3}, {"id": "#eth", "count": 17}]
+},
+{
+"id": "#beauty",
+   "count": 341, 
+   "category": 3,
+   "tag_associations": [      {"id": "#aipoem", "count": 334}, {"id": "#poem", "count": 334}, {"id": "#poemaday", "count": 334}, {"id": "#female", "count": 334}, {"id": "#aiartcommunity", "count": 260}, {"id": "#stablediffusionai", "count": 127}, {"id": "#stablediffusion", "count": 40}]
+},
+{
+"id": "#poem",
+   "count": 340, 
+   "category": 3,
+   "tag_associations": [      {"id": "#aipoem", "count": 334}, {"id": "#poemaday", "count": 334}, {"id": "#female", "count": 334}, {"id": "#aiartcommunity", "count": 260}, {"id": "#stablediffusionai", "count": 127}, {"id": "#stablediffusion", "count": 39}]
+},
+{
+"id": "#female",
+   "count": 334, 
+   "category": 3,
+   "tag_associations": [      {"id": "#aipoem", "count": 334}, {"id": "#poemaday", "count": 334}, {"id": "#aiartcommunity", "count": 260}, {"id": "#stablediffusionai", "count": 127}, {"id": "#stablediffusion", "count": 39}]
+},
+{
+"id": "#poemaday",
+   "count": 334, 
+   "category": 3,
+   "tag_associations": [   ]
+},
+{
+"id": "#aipoem",
+   "count": 334, 
+   "category": 3,
+   "tag_associations": [   ]
+},
+{
+"id": "#google",
+   "count": 298, 
+   "category": 4,
+   "tag_associations": [      {"id": "#bing", "count": 7}, {"id": "#deeplearning", "count": 6}, {"id": "#nlp", "count": 5}, {"id": "#bard", "count": 10}, {"id": "#domains", "count": 6}, {"id": "#chatgpt3", "count": 1}, {"id": "#chatbot", "count": 5}, {"id": "#gptchat", "count": 4}, {"id": "#defi", "count": 2}, {"id": "#blockchain", "count": 2}, {"id": "#metaverse", "count": 2}, {"id": "#nfts", "count": 2}, {"id": "#art", "count": 2}, {"id": "#tech", "count": 2}, {"id": "#future", "count": 2}, {"id": "#artificial_intelligence", "count": 1}, {"id": "#agi", "count": 1}, {"id": "#llm", "count": 1}, {"id": "#elonmusk", "count": 1}, {"id": "#data", "count": 1}]
+},
+{
+"id": "#aiartcommunity",
+   "count": 279, 
+   "category": 3,
+   "tag_associations": [      {"id": "#stablediffusionai", "count": 127}, {"id": "#aitools", "count": 1}, {"id": "#stablediffusion", "count": 43}, {"id": "#elonmusk", "count": 1}, {"id": "#bard", "count": 1}]
+},
+{
+"id": "#tech",
+   "count": 277, 
+   "category": 4,
+   "tag_associations": [      {"id": "#innovation", "count": 29}, {"id": "#metaverse", "count": 6}, {"id": "#blockchain", "count": 28}, {"id": "#marketing", "count": 10}, {"id": "#analytics", "count": 9}, {"id": "#bigdata", "count": 16}, {"id": "#bard", "count": 6}, {"id": "#chatbot", "count": 37}, {"id": "#aitools", "count": 5}, {"id": "#coding", "count": 5}, {"id": "#data", "count": 7}, {"id": "#ml", "count": 50}, {"id": "#cybersecurity", "count": 7}, {"id": "#domains", "count": 10}, {"id": "#startups", "count": 10}, {"id": "#defi", "count": 7}, {"id": "#bitcoin", "count": 6}, {"id": "#nfts", "count": 6}, {"id": "#programming", "count": 10}, {"id": "#bingai", "count": 26}, {"id": "#python", "count": 31}, {"id": "#chatgpt3", "count": 22}, {"id": "#code", "count": 26}, {"id": "#gpt5", "count": 4}, {"id": "#elonmusk", "count": 6}, {"id": "#artificalintelligence", "count": 2}, {"id": "#midjourneyv5", "count": 2}, {"id": "#llms", "count": 2}, {"id": "#artificial_intelligence", "count": 6}, {"id": "#agi", "count": 1}, {"id": "#future", "count": 6}, {"id": "#datascience", "count": 3}, {"id": "#nlp", "count": 1}, {"id": "#gptchat", "count": 12}, {"id": "#deeplearning", "count": 1}, {"id": "#art", "count": 1}, {"id": "#bing", "count": 3}, {"id": "#twitter", "count": 2}, {"id": "#chatgptplus", "count": 1}, {"id": "#buildinpublic", "count": 1}, {"id": "#emergingtech", "count": 1}]
+},
+{
+"id": "#gpt5",
+   "count": 263, 
+   "category": 1,
+   "tag_associations": [      {"id": "#agi", "count": 4}, {"id": "#bingai", "count": 2}, {"id": "#elonmusk", "count": 4}, {"id": "#domains", "count": 3}, {"id": "#aitools", "count": 2}, {"id": "#artificial_intelligence", "count": 2}, {"id": "#bing", "count": 1}, {"id": "#bard", "count": 1}, {"id": "#promptengineering", "count": 2}, {"id": "#llms", "count": 3}, {"id": "#data", "count": 1}, {"id": "#deeplearning", "count": 1}, {"id": "#nlp", "count": 1}]
+},
+{
+"id": "#blockchain",
+   "count": 263, 
+   "category": 2,
+   "tag_associations": [      {"id": "#innovation", "count": 11}, {"id": "#metaverse", "count": 26}, {"id": "#marketing", "count": 7}, {"id": "#analytics", "count": 7}, {"id": "#bigdata", "count": 14}, {"id": "#bard", "count": 1}, {"id": "#domains", "count": 30}, {"id": "#startups", "count": 9}, {"id": "#defi", "count": 15}, {"id": "#bitcoin", "count": 19}, {"id": "#nfts", "count": 26}, {"id": "#ml", "count": 4}, {"id": "#chatbot", "count": 16}, {"id": "#data", "count": 1}, {"id": "#eth", "count": 11}, {"id": "#llms", "count": 1}, {"id": "#cybersecurity", "count": 2}, {"id": "#midjourneyv5", "count": 2}, {"id": "#gptchat", "count": 8}, {"id": "#art", "count": 2}, {"id": "#nftcommunity", "count": 2}, {"id": "#bing", "count": 3}, {"id": "#python", "count": 1}, {"id": "#programming", "count": 1}, {"id": "#stablediffusion", "count": 1}, {"id": "#stablediffusionai", "count": 1}, {"id": "#artificial_intelligence", "count": 2}]
+},
+{
+"id": "#innovation",
+   "count": 259, 
+   "category": 4,
+   "tag_associations": [      {"id": "#metaverse", "count": 6}, {"id": "#marketing", "count": 6}, {"id": "#analytics", "count": 8}, {"id": "#bigdata", "count": 9}, {"id": "#bard", "count": 3}, {"id": "#ml", "count": 14}, {"id": "#chatbot", "count": 2}, {"id": "#data", "count": 4}, {"id": "#cybersecurity", "count": 3}, {"id": "#domains", "count": 7}, {"id": "#startups", "count": 11}, {"id": "#midjourneyv5", "count": 2}, {"id": "#bitcoin", "count": 2}, {"id": "#twitter", "count": 2}, {"id": "#agi", "count": 1}, {"id": "#future", "count": 7}, {"id": "#artificial_intelligence", "count": 1}, {"id": "#python", "count": 1}, {"id": "#datascience", "count": 3}, {"id": "#nlp", "count": 4}, {"id": "#elonmusk", "count": 3}, {"id": "#chatgptplus", "count": 1}, {"id": "#artificalintelligence", "count": 2}, {"id": "#stablediffusion", "count": 2}, {"id": "#stablediffusionai", "count": 1}, {"id": "#llm", "count": 3}, {"id": "#deeplearning", "count": 2}, {"id": "#programming", "count": 1}, {"id": "#coding", "count": 1}, {"id": "#art", "count": 1}, {"id": "#aitools", "count": 1}, {"id": "#bing", "count": 2}]
+},
+{
+"id": "#twitter",
+   "count": 252, 
+   "category": 4,
+   "tag_associations": [      {"id": "#bard", "count": 2}, {"id": "#elonmusk", "count": 2}, {"id": "#llm", "count": 2}, {"id": "#ml", "count": 1}]
+},
+{
+"id": "#bing",
+   "count": 250, 
+   "category": 4,
+   "tag_associations": [      {"id": "#chatbot", "count": 12}, {"id": "#bard", "count": 12}, {"id": "#chatgpt3", "count": 8}, {"id": "#llms", "count": 11}, {"id": "#stablediffusion", "count": 5}, {"id": "#elonmusk", "count": 4}, {"id": "#reddit", "count": 9}, {"id": "#gptchat", "count": 9}, {"id": "#chatgptplus", "count": 4}, {"id": "#marketing", "count": 2}, {"id": "#datascience", "count": 2}, {"id": "#metaverse", "count": 5}, {"id": "#domains", "count": 3}, {"id": "#bitcoin", "count": 3}, {"id": "#artificial_intelligence", "count": 1}, {"id": "#bingai", "count": 3}, {"id": "#deeplearning", "count": 7}, {"id": "#agi", "count": 4}, {"id": "#llm", "count": 3}, {"id": "#code", "count": 1}, {"id": "#artificalintelligence", "count": 1}, {"id": "#future", "count": 1}, {"id": "#nlp", "count": 2}, {"id": "#art", "count": 1}]
+},
+{
+"id": "#agi",
+   "count": 242, 
+   "category": 0,
+   "tag_associations": [      {"id": "#artificial_intelligence", "count": 2}, {"id": "#bard", "count": 2}, {"id": "#future", "count": 2}, {"id": "#llm", "count": 2}, {"id": "#chatbot", "count": 1}]
+},
+{
+"id": "#nlp",
+   "count": 240, 
+   "category": 1,
+   "tag_associations": [      {"id": "#midjourneyv5", "count": 2}, {"id": "#startups", "count": 2}, {"id": "#llms", "count": 5}, {"id": "#data", "count": 1}, {"id": "#coding", "count": 4}, {"id": "#python", "count": 3}, {"id": "#datascience", "count": 4}, {"id": "#llm", "count": 2}, {"id": "#deeplearning", "count": 6}, {"id": "#metaverse", "count": 6}, {"id": "#art", "count": 4}, {"id": "#programming", "count": 3}, {"id": "#ml", "count": 4}, {"id": "#stablediffusion", "count": 4}, {"id": "#aitools", "count": 1}, {"id": "#bigdata", "count": 3}, {"id": "#analytics", "count": 2}, {"id": "#artificial_intelligence", "count": 1}]
+},
+{
+"id": "#llm",
+   "count": 237, 
+   "category": 1,
+   "tag_associations": [      {"id": "#llms", "count": 4}, {"id": "#bard", "count": 2}, {"id": "#python", "count": 1}, {"id": "#deeplearning", "count": 2}, {"id": "#chatbot", "count": 3}, {"id": "#ml", "count": 2}, {"id": "#chatgpt3", "count": 1}, {"id": "#metaverse", "count": 1}, {"id": "#art", "count": 1}, {"id": "#stablediffusion", "count": 1}]
+},
+{
+"id": "#chatbot",
+   "count": 222, 
+   "category": 1,
+   "tag_associations": [      {"id": "#bard", "count": 7}, {"id": "#aitools", "count": 3}, {"id": "#coding", "count": 2}, {"id": "#marketing", "count": 4}, {"id": "#programming", "count": 1}, {"id": "#bingai", "count": 28}, {"id": "#python", "count": 29}, {"id": "#ml", "count": 29}, {"id": "#chatgpt3", "count": 27}, {"id": "#code", "count": 28}, {"id": "#metaverse", "count": 1}, {"id": "#analytics", "count": 1}, {"id": "#bigdata", "count": 3}, {"id": "#data", "count": 2}, {"id": "#cybersecurity", "count": 3}, {"id": "#reddit", "count": 9}, {"id": "#gptchat", "count": 16}, {"id": "#chatgptplus", "count": 6}, {"id": "#stablediffusion", "count": 1}, {"id": "#future", "count": 5}, {"id": "#domains", "count": 6}, {"id": "#artificial_intelligence", "count": 2}, {"id": "#elonmusk", "count": 3}, {"id": "#startups", "count": 2}, {"id": "#artificalintelligence", "count": 8}, {"id": "#deeplearning", "count": 2}, {"id": "#buildinpublic", "count": 1}]
+},
+{
+"id": "#usdt",
+   "count": 213, 
+   "category": 2,
+   "tag_associations": [      {"id": "#nfts", "count": 1}, {"id": "#nftcommunity", "count": 1}, {"id": "#usdc", "count": 1}, {"id": "#bitcoin", "count": 1}]
+},
+{
+"id": "#stablediffusion",
+   "count": 200, 
+   "category": 3,
+   "tag_associations": [      {"id": "#aitools", "count": 3}, {"id": "#elonmusk", "count": 1}, {"id": "#nfts", "count": 3}, {"id": "#art", "count": 8}, {"id": "#midjourneyv5", "count": 17}, {"id": "#ml", "count": 2}, {"id": "#deeplearning", "count": 1}, {"id": "#bigdata", "count": 2}, {"id": "#stablediffusionai", "count": 2}, {"id": "#eth", "count": 6}, {"id": "#metaverse", "count": 10}, {"id": "#defi", "count": 4}, {"id": "#gptchat", "count": 1}, {"id": "#bard", "count": 1}, {"id": "#data", "count": 1}, {"id": "#future", "count": 1}]
+},
+{
+"id": "#circle",
+   "count": 198, 
+   "category": 2,
+   "tag_associations": [   ]
+},
+{
+"id": "#damus",
+   "count": 197, 
+   "category": 2,
+   "tag_associations": [   ]
+},
+{
+"id": "#bard",
+   "count": 187, 
+   "category": 1,
+   "tag_associations": [      {"id": "#llms", "count": 2}, {"id": "#marketing", "count": 2}, {"id": "#elonmusk", "count": 4}, {"id": "#deeplearning", "count": 5}, {"id": "#gptchat", "count": 1}, {"id": "#reddit", "count": 1}, {"id": "#chatgptplus", "count": 1}, {"id": "#domains", "count": 1}, {"id": "#artificial_intelligence", "count": 1}]
+},
+{
+"id": "#art",
+   "count": 185, 
+   "category": 3,
+   "tag_associations": [      {"id": "#midjourneyv5", "count": 52}, {"id": "#datascience", "count": 46}, {"id": "#data", "count": 48}, {"id": "#code", "count": 49}, {"id": "#python", "count": 45}, {"id": "#analytics", "count": 39}, {"id": "#nfts", "count": 3}, {"id": "#eth", "count": 1}, {"id": "#bigdata", "count": 21}, {"id": "#coding", "count": 5}, {"id": "#defi", "count": 2}, {"id": "#metaverse", "count": 6}, {"id": "#programming", "count": 2}, {"id": "#deeplearning", "count": 3}, {"id": "#elonmusk", "count": 1}]
+},
+{
+"id": "#nfts",
+   "count": 182, 
+   "category": 2,
+   "tag_associations": [      {"id": "#domains", "count": 2}, {"id": "#metaverse", "count": 5}, {"id": "#nftcommunity", "count": 3}, {"id": "#defi", "count": 2}, {"id": "#bitcoin", "count": 2}, {"id": "#eth", "count": 2}, {"id": "#haaland", "count": 1}]
+},
+{
+"id": "#ml",
+   "count": 179, 
+   "category": 0,
+   "tag_associations": [      {"id": "#programming", "count": 9}, {"id": "#datascience", "count": 7}, {"id": "#deeplearning", "count": 8}, {"id": "#coding", "count": 6}, {"id": "#python", "count": 3}, {"id": "#future", "count": 1}, {"id": "#aitools", "count": 2}, {"id": "#bigdata", "count": 1}, {"id": "#elonmusk", "count": 1}, {"id": "#llms", "count": 1}, {"id": "#bingai", "count": 1}, {"id": "#artificial_intelligence", "count": 1}]
+},
+{
+"id": "#midjourneyv5",
+   "count": 178, 
+   "category": 3,
+   "tag_associations": [      {"id": "#promptengineering", "count": 25}, {"id": "#artificalintelligence", "count": 2}, {"id": "#gptchat", "count": 2}, {"id": "#cybersecurity", "count": 2}, {"id": "#chatgpt3", "count": 1}]
+},
+{
+"id": "#emergingtech",
+   "count": 176, 
+   "category": 4,
+   "tag_associations": [      {"id": "#elonmusk", "count": 1}]
+},
+{
+"id": "#python",
+   "count": 175, 
+   "category": 4,
+   "tag_associations": [      {"id": "#datascience", "count": 51}, {"id": "#eth", "count": 1}, {"id": "#nftcommunity", "count": 1}, {"id": "#bitcoin", "count": 1}, {"id": "#programming", "count": 6}, {"id": "#data", "count": 46}, {"id": "#code", "count": 46}, {"id": "#analytics", "count": 39}, {"id": "#llms", "count": 1}, {"id": "#coding", "count": 4}, {"id": "#bigdata", "count": 3}, {"id": "#deeplearning", "count": 3}, {"id": "#artificial_intelligence", "count": 2}, {"id": "#artificalintelligence", "count": 3}, {"id": "#haaland", "count": 1}, {"id": "#future", "count": 1}]
+},
+{
+"id": "#usdc",
+   "count": 174, 
+   "category": 2,
+   "tag_associations": [      {"id": "#nftcommunity", "count": 3}, {"id": "#bitcoin", "count": 3}]
+},
+{
+"id": "#coruzant",
+   "count": 173, 
+   "category": 2,
+   "tag_associations": [   ]
+},
+{
+"id": "#deeplearning",
+   "count": 170, 
+   "category": 0,
+   "tag_associations": [      {"id": "#programming", "count": 7}, {"id": "#datascience", "count": 12}, {"id": "#coding", "count": 7}, {"id": "#eth", "count": 1}, {"id": "#llms", "count": 9}, {"id": "#chatgpt3", "count": 8}, {"id": "#aitools", "count": 1}, {"id": "#bigdata", "count": 4}, {"id": "#data", "count": 3}, {"id": "#analytics", "count": 1}, {"id": "#gptchat", "count": 1}, {"id": "#artificalintelligence", "count": 1}, {"id": "#future", "count": 1}, {"id": "#code", "count": 2}]
+},
+{
+"id": "#nostr",
+   "count": 167, 
+   "category": 4,
+   "tag_associations": [   ]
+},
+{
+"id": "#llms",
+   "count": 167, 
+   "category": 1,
+   "tag_associations": [      {"id": "#promptengineering", "count": 1}, {"id": "#data", "count": 1}, {"id": "#coding", "count": 1}, {"id": "#chatgpt3", "count": 9}]
+},
+{
+"id": "#datascience",
+   "count": 166, 
+   "category": 4,
+   "tag_associations": [      {"id": "#chatgpt3", "count": 1}, {"id": "#aitools", "count": 1}, {"id": "#programming", "count": 8}, {"id": "#data", "count": 47}, {"id": "#code", "count": 45}, {"id": "#analytics", "count": 40}, {"id": "#coding", "count": 7}, {"id": "#bigdata", "count": 4}]
+},
+{
+"id": "#haaland",
+   "count": 164, 
+   "category": 5,
+   "tag_associations": [      {"id": "#gilmore", "count": 2}, {"id": "#waller", "count": 2}]
+},
+{
+"id": "#domains",
+   "count": 158, 
+   "category": 4,
+   "tag_associations": [      {"id": "#startups", "count": 18}, {"id": "#defi", "count": 9}, {"id": "#bitcoin", "count": 13}, {"id": "#bigdata", "count": 6}, {"id": "#cybersecurity", "count": 3}, {"id": "#marketing", "count": 2}, {"id": "#artificalintelligence", "count": 2}, {"id": "#programming", "count": 2}, {"id": "#metaverse", "count": 8}, {"id": "#eth", "count": 3}, {"id": "#artificial_intelligence", "count": 1}, {"id": "#future", "count": 3}, {"id": "#gptchat", "count": 4}, {"id": "#elonmusk", "count": 2}, {"id": "#coding", "count": 1}]
+},
+{
+"id": "#bitcoin",
+   "count": 134, 
+   "category": 2,
+   "tag_associations": [      {"id": "#startups", "count": 7}, {"id": "#defi", "count": 13}, {"id": "#bigdata", "count": 6}, {"id": "#metaverse", "count": 7}, {"id": "#eth", "count": 10}, {"id": "#cybersecurity", "count": 6}, {"id": "#aitools", "count": 1}, {"id": "#marketing", "count": 2}, {"id": "#chatgptplus", "count": 1}, {"id": "#gilmore", "count": 1}, {"id": "#waller", "count": 1}, {"id": "#nftcommunity", "count": 1}]
+},
+{
+"id": "#chatgpt3",
+   "count": 134, 
+   "category": 1,
+   "tag_associations": [      {"id": "#programming", "count": 2}, {"id": "#bingai", "count": 26}, {"id": "#code", "count": 23}, {"id": "#coding", "count": 6}, {"id": "#aitools", "count": 1}, {"id": "#analytics", "count": 1}, {"id": "#artificial_intelligence", "count": 2}, {"id": "#artificalintelligence", "count": 4}, {"id": "#metaverse", "count": 6}, {"id": "#gptchat", "count": 13}, {"id": "#elonmusk", "count": 5}, {"id": "#chatgptplus", "count": 5}]
+},
+{
+"id": "#stablediffusionai",
+   "count": 133, 
+   "category": 3,
+   "tag_associations": [   ]
+},
+{
+"id": "#dominospiday",
+   "count": 131, 
+   "category": 5,
+   "tag_associations": [      {"id": "#cobb", "count": 1}, {"id": "#jets", "count": 1}]
+},
+{
+"id": "#gilmore",
+   "count": 130,
+   "category": 5, 
+   "tag_associations": [      {"id": "#waller", "count": 2}]
+},
+{
+"id": "#eth",
+   "count": 128, 
+   "category": 2,
+   "tag_associations": [      {"id": "#metaverse", "count": 8}, {"id": "#defi", "count": 6}, {"id": "#nftcommunity", "count": 3}]
+},
+{
+"id": "#elonmusk",
+   "count": 125, 
+   "category": 5,
+   "tag_associations": [      {"id": "#cybersecurity", "count": 4}, {"id": "#future", "count": 1}, {"id": "#programming", "count": 1}]
+},
+{
+"id": "#cybersecurity",
+   "count": 122, 
+   "category": 4,
+   "tag_associations": [      {"id": "#startups", "count": 3}, {"id": "#artificalintelligence", "count": 2}, {"id": "#future", "count": 1}, {"id": "#defi", "count": 1}]
+},
+{
+"id": "#waller",
+   "count": 121,
+   "category": 5, 
+   "tag_associations": [      {"id": "#raiders", "count": 10}, {"id": "#jets", "count": 10}, {"id": "#cobb", "count": 10}, {"id": "#reddit", "count": 1}]
+},
+{
+"id": "#jets",
+   "count": 118, 
+   "category": 5,
+   "tag_associations": [      {"id": "#raiders", "count": 22}, {"id": "#cobb", "count": 11}]
+},
+{
+"id": "#programming",
+   "count": 115, 
+   "category": 4,
+   "tag_associations": [      {"id": "#bingai", "count": 1}, {"id": "#code", "count": 5}, {"id": "#coding", "count": 20}, {"id": "#artificalintelligence", "count": 3}, {"id": "#aitools", "count": 1}, {"id": "#metaverse", "count": 1}, {"id": "#bigdata", "count": 1}, {"id": "#data", "count": 1}, {"id": "#analytics", "count": 1}, {"id": "#gptchat", "count": 1}, {"id": "#future", "count": 1}]
+},
+{
+"id": "#coding",
+   "count": 114, 
+   "category": 4,
+   "tag_associations": [      {"id": "#aitools", "count": 1}, {"id": "#bingai", "count": 1}, {"id": "#code", "count": 7}, {"id": "#metaverse", "count": 6}, {"id": "#gptchat", "count": 5}, {"id": "#data", "count": 2}, {"id": "#bigdata", "count": 1}, {"id": "#analytics", "count": 1}, {"id": "#buildinpublic", "count": 1}, {"id": "#artificalintelligence", "count": 2}, {"id": "#startups", "count": 1}]
+},
+{
+"id": "#buildinpublic",
+   "count": 111, 
+   "category": 4,
+   "tag_associations": [      {"id": "#promptengineering", "count": 4}, {"id": "#startups", "count": 3}, {"id": "#aitools", "count": 1}]
+},
+{
+"id": "#artificalintelligence",
+   "count": 107, 
+   "category": 0,
+   "tag_associations": [      {"id": "#analytics", "count": 1}, {"id": "#artificial_intelligence", "count": 6}, {"id": "#bingai", "count": 1}, {"id": "#promptengineering", "count": 2}, {"id": "#chatgptplus", "count": 3}, {"id": "#future", "count": 1}, {"id": "#aitools", "count": 3}, {"id": "#marketing", "count": 1}]
+},
+{
+"id": "#reddit",
+   "count": 107, 
+   "category": 4,
+   "tag_associations": [      {"id": "#gptchat", "count": 6}, {"id": "#chatgptplus", "count": 4}]
+},
+{
+"id": "#data",
+   "count": 106, 
+   "category": 4,
+   "tag_associations": [      {"id": "#marketing", "count": 2}, {"id": "#metaverse", "count": 1}, {"id": "#analytics", "count": 41}, {"id": "#bigdata", "count": 5}, {"id": "#code", "count": 47}, {"id": "#startups", "count": 19}, {"id": "#future", "count": 1}]
+},
+{
+"id": "#defi",
+   "count": 105, 
+   "category": 4,
+   "tag_associations": [      {"id": "#startups", "count": 6}, {"id": "#bigdata", "count": 6}, {"id": "#metaverse", "count": 2}, {"id": "#nftcommunity", "count": 1}]
+},
+{
+"id": "#chatgptplus",
+   "count": 105, 
+   "category": 1,
+   "tag_associations": [      {"id": "#gptchat", "count": 4}, {"id": "#metaverse", "count": 2}]
+},
+{
+"id": "#metaverse",
+   "count": 104, 
+   "category": 4,
+   "tag_associations": [      {"id": "#marketing", "count": 6}, {"id": "#analytics", "count": 6}, {"id": "#bigdata", "count": 6}, {"id": "#gptchat", "count": 5}]
+},
+{
+"id": "#bigdata",
+   "count": 103, 
+   "category": 4,
+   "tag_associations": [      {"id": "#marketing", "count": 7}, {"id": "#analytics", "count": 9}, {"id": "#startups", "count": 6}, {"id": "#aitools", "count": 1}, {"id": "#code", "count": 2}]
+},
+{
+"id": "#future",
+   "count": 103, 
+   "category": 4,
+   "tag_associations": [      {"id": "#bingai", "count": 1}, {"id": "#startups", "count": 4}, {"id": "#artificial_intelligence", "count": 5}]
+},
+{
+"id": "#promptengineering",
+   "count": 102, 
+   "category": 1,
+   "tag_associations": [      {"id": "#gptchat", "count": 6}, {"id": "#marketing", "count": 1}]
+},
+{
+"id": "#cobb",
+   "count": 100, 
+   "category": 5,
+   "tag_associations": [      {"id": "#raiders", "count": 11}]
+},
+{
+"id": "#raiders",
+   "count": 100, 
+   "category": 5,
+   "tag_associations": [   ]
+},
+{
+"id": "#nftcommunity",
+   "count": 99, 
+   "category": 2,
+   "tag_associations": [   ]
+},
+{
+"id": "#gptchat",
+   "count": 98, 
+   "category": 1,
+   "tag_associations": [      {"id": "#bingai", "count": 14}, {"id": "#code", "count": 8}, {"id": "#startups", "count": 1}, {"id": "#artificial_intelligence", "count": 2}]
+},
+{
+"id": "#bingai",
+   "count": 98, 
+   "category": 1,
+   "tag_associations": [      {"id": "#code", "count": 3}]
+},
+{
+"id": "#code",
+   "count": 94,
+   "category": 4, 
+   "tag_associations": [      {"id": "#analytics", "count": 38}]
+},
+{
+"id": "#startups",
+   "count": 91, 
+   "category": 4,
+   "tag_associations": [   ]
+},
+{
+"id": "#marketing",
+   "count": 91, 
+   "category": 4,
+   "tag_associations": [      {"id": "#analytics", "count": 6}, {"id": "#aitools", "count": 3}]
+},
+{
+"id": "#aitools",
+   "count": 89, 
+   "category": 0,
+   "tag_associations": [      {"id": "#artificial_intelligence", "count": 2}]
+},
+{
+"id": "#artificial_intelligence",
+   "count": 87, 
+   "category": 0,
+   "tag_associations": [   ]
+},
+{
+"id": "#analytics",
+   "count": 86, 
+   "category": 4,
+   "tag_associations": [   ]
+}
+]
